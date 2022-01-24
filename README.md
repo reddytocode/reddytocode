@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 I'm Reddy Tintaya (Reddy -> ready xD )
+- 🔭 I’m currently working as a FullStack developer focused on the backend side
+
 <!--
 **reddytocode/reddytocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
