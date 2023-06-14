@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a FullStack developer focused on the backend side
+- 🔭 Currently working as a FullStack developer focused on the backend side
 - ⚡ Fun fact: Reddy -> ready xD (No one catchs my name at the first time)
 
 
