@@ -5,10 +5,14 @@
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddytocode" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddytocode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=reddytocode&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=reddytocode&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=reddytocode&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddytocode&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
