@@ -3,6 +3,7 @@
 - 🔭 Currently working as a FullStack developer focused on the backend side
 - ⚡ Fun fact: Reddy -> ready xD (No one catchs my name at the first time)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=reddytocode)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **reddytocode/reddytocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
